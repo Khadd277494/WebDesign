@@ -19109,7 +19109,7 @@ header.nav-fixed {
   font-weight: bold;
   outline: none;
   border: 2px solid var(--primary-color);
-  background: var(--primary-color);
+  background:#a0b0cb;
   transition: all 1.8s ease-in-out;
 }
 
